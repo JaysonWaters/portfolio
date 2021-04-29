@@ -15,11 +15,6 @@
     "resumedownload":"LINK TO YOUR RESUME HERE - CAN HOST IT ON GDRIVE",
     "social":[
       {
-        "name":"twitter", 
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/yoururl/",
         "className":"fa fa-linkedin"
