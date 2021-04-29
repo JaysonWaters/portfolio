@@ -12,16 +12,16 @@
       "zip": "22405"
     },
     "website": "username.github.io",
-    "resumedownload":"LINK TO YOUR RESUME HERE - CAN HOST IT ON GDRIVE",
+    "resumedownload":"https://drive.google.com/file/d/171MuPClFA2BCwDW7KKZyeiHLtff1b-gO/view?usp=sharing",
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/yoururl/",
+        "url":"https://www.linkedin.com/in/jayson-waters-277ba1207/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/githubusername",
+        "url":"https://github.com/JaysonWaters",
         "className":"fa fa-github"
       }
     ]
@@ -29,28 +29,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
+        "title":"News API app",
+        "category":"Mobile android application that gets the top headlines in the news",
+        "image":"news_app.png",
         "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
     ]
   }
