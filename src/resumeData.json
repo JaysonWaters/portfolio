@@ -1,17 +1,17 @@
 {
   "main": {
-    "name":"Student Name",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Jayson Waters",
+    "description":"Senior UVA-Wise Computer Science major",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "student@uvawise.com",
+    "bio":"CS major graduation May 2021. Ny favorite text editors to use are Atom and VScode. I'm really passionate about technology/software because it is a forever changing field that will always keep you learing new skill and concepts.",
+    "contactmessage":"Personal Email: jaydubb9975@gmail.com Phone:(540)623-5406",
+    "email": "jcw8re@uvawise.edu",
     "address":{
-      "city":"Charlottesville",
+      "city":"Fredericksburg",
       "state":"Virginia",
-      "zip": "22903"
+      "zip": "22405"
     },
-    "website": "<username>.github.io",
+    "website": "username.github.io",
     "resumedownload":"LINK TO YOUR RESUME HERE - CAN HOST IT ON GDRIVE",
     "social":[
       {
