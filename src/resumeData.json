@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"Jayson Waters",
-    "description":"Senior UVA-Wise Computer Science major",
+    "description":"UVA-Wise Computer Science Alumni",
     "image":"profilepic.jpg",
-    "bio":"CS major graduation May 2021. Ny favorite text editors to use are Atom and VScode. I'm really passionate about technology/software because it is a forever changing field that will always keep you learing new skill and concepts.",
+    "bio":"CS major graduation May 2021. My favorite text editors to use are Atom and VScode. I'm really passionate about technology/software because it is a forever changing field that will always keep you learing new skill and concepts.",
     "contactmessage":"Personal Email: jaydubb9975@gmail.com Phone:(540)623-5406",
-    "email": "jcw8re@uvawise.edu",
+    "email": "jaydubb9975@gmail.com",
     "address":{
       "city":"Fredericksburg",
       "state":"Virginia",
@@ -30,7 +30,7 @@
     "projects": [
       {
         "title":"News API app",
-        "category":"Mobile android application that gets the top headlines in the news",
+        "category":"Mobile android application that gets the top headlines in the news.",
         "image":"news_app.png",
         "url":"https://github.com/JaysonWaters/News_Api_App"
       }
