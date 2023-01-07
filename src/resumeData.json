@@ -33,6 +33,12 @@
         "category":"Mobile android application that gets the top headlines in the news.",
         "image":"news_app.png",
         "url":"https://github.com/JaysonWaters/News_Api_App"
+      },
+      {
+        "title":"Tableau Covid Dashboard",
+        "category":"Analytic dashboard showing Global Numbers, Percent of Population Infected Per Country,Total Deaths Per Continent, and Percent of Population Infected by Covid-19",
+        "image":"TableauCovidDash.png",
+        "url":"https://public.tableau.com/views/CovidDashboard1_16678641355890/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"
       }
     ]
   }
